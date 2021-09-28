@@ -19,6 +19,9 @@ Se realizarán sesiones en vivo de aproximadamente una hora al día. Luego se as
 Todas las herramientas que utilizaremos son gratuitas y las encuentras en Internet.
 
 - Necesitarás crear una cuenta de [Github](https://github.com/) para autenticarte en el foro de Make It Real.
+- Si tu sistema operativo es Windows, necesitarás instalar [Git Bash](https://git-scm.com/download/win). Si prefieres [instalar Ubuntu en Windows 10](https://ubuntu.com/tutorials/ubuntu-on-windows#1-overview), puedes seguir las instrucciones del link.
+- Si usas Mac o Linux, la terminal que trae por defecto cada sistema operativo será suficiente.
+- Necesitarás instalar git. Para instalarlo, selecciona tu sistema operativo y sigue las instrucciones del siguiente link: [instalar git](https://git-scm.com/download/)
 - Necesitarás instalar [NodeJS] en tu computadora. Para instalarlo en Linux o Mac, te recomendamos usar nvm (Node version manager). Si tienes instalado `curl`, puedes correr este comando `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash` o usar el comando `wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash` desde tu terminal. Si usas Windows puedes instalar NodeJS usando [nvs](https://github.com/jasongin/nvs).
 - Debes contar con un editor de texto para realizar los ejercicios. Puede ser [VS Code](https://code.visualstudio.com/), [Atom](https://atom.io/), [Sublime](https://www.sublimetext.com/), o cualquier otro que sea de tu preferencia.
 - Las [Guías de Make It Real](https://guias.makeitreal.camp/javascript-i) - te servirán como recurso de apoyo.
