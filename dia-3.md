@@ -1,4 +1,4 @@
-# Branches
+# Day 3: working with branches locally
 
 ## **Objective:** learn to work with branches.
 

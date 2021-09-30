@@ -1,4 +1,4 @@
-## Day 1
+# Day 1: the command line
 
 Complete the following exercises using your terminal/command line/bash.
 
