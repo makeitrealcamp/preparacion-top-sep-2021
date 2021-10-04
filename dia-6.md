@@ -11,3 +11,5 @@
 Write a program that asks the user for a number and prints if it is a multiple of 5 or not. If it is a multiple, it must print "Yes, the number x is a multiple of 5", otherwise it must print "No, the number x is not a multiple of 5". Share your answer in this link.
 4. Write a program that asks the user for a number and prints to the console if the number is greater than, less than or equal to 10. If the number is less than 10 you must print "The number is less than 10". If the number is greater than 10 you must print "The number is greater than 10". If the number is equal to 10 you must print "The number is equal to 10".
 5. Modify  the `calculate BMI`, and asks the user for height and weight.
+
+Post your [response and questions here](https://foro.makeitreal.camp/t/respuesta-ejercicio-30-preparacion-top/4280)
