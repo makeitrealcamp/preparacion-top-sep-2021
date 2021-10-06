@@ -5,4 +5,5 @@
 * [día 4](https://makeitreal.s3.amazonaws.com/videos/curso-preparacion-top/sep-2021/preparacion_top_sept_2021_Session_4.mp4)
 * [día 5](https://makeitreal.s3.amazonaws.com/videos/curso-preparacion-top/sep-2021/preparacion_top_sept_2021_Session_5.mp4)
 * [día 6](https://makeitreal.s3.amazonaws.com/videos/curso-preparacion-top/sep-2021/preparacion_top_sept_2021_Session_6.mp4)
+* [día 7](https://makeitreal.s3.amazonaws.com/videos/curso-preparacion-top/sep-2021/preparacion_top_sept_2021_Session_7.mp4)
 
