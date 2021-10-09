@@ -48,3 +48,4 @@ La idea del trabajo en parejas es que haya **una persona que dicta y otra que es
 - [Día 7](dia-7.md)
 - [Día 8](dia-8.md)
 - [Día 9](dia-9.md)
+- [Día 10](dia-10.js)
