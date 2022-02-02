@@ -49,3 +49,6 @@ La idea del trabajo en parejas es que haya **una persona que dicta y otra que es
 - [Día 8](dia-8.md)
 - [Día 9](dia-9.md)
 - [Día 10](dia-10.js)
+
+## Déjanos saber que hiciste el curso
+Llena el siguiente formulario para que la persona que evalúe tu prueba técnica y entrevista sepa que hiciste el curso de preparación. [Informar que hice el curso de preparación](https://docs.google.com/forms/d/e/1FAIpQLScDo1FoGrQqLnEBekHuXQb0-fNTQm0ENBflrRWFqzVQluX-Lg/viewform)
